@@ -1,6 +1,9 @@
 local ox_inventory = exports.ox_inventory
 GlobalState.hospitalState = true
 
+
+---@param source number
+---@return boolean
 lib.callback.register("qp_hospital:startTreatment", function(source)
     if not GlobalState.hospitalState then return end
 
