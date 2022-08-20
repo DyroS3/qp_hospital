@@ -1,12 +1,17 @@
 {
 	"utility": {
 		"textui": true,
-		"qtarget": false
+		"ox_target": false
 	},
 	"point": {
 		"x": 295.4110,
 		"y": -1447.6251,
 		"z": 29.9666
+	},
+	"sphere": {
+		"x": 294.82373046875,
+		"y": -1448.2752685546876,
+		"z": 30.42856979370117
 	},
 	"general": {
 		"debug": false
